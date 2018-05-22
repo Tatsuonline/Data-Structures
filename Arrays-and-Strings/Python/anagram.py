@@ -15,11 +15,3 @@ def voldemort (string_0, string_1):
             return False
 
     return True
-
-'''
-# Test cases using the Beyonder module I have written:
-
-test_cases = {}
-
-test_cases["
-'''
